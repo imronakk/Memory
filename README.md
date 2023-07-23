@@ -1,4 +1,4 @@
-# Capture the Magic of Life's Moments - Memory Web App
+# Capture the Magic of Life's Moments - 'Memory'
 
 The Memory Web App is a captivating platform designed to be your digital diary, offering a magical space to capture, cherish, and share life's most beautiful moments. Whether it's a breathtaking sunset, a joyful family gathering, or a heartwarming adventure, this app lets you curate a collection of memories that will stay with you forever.
 
