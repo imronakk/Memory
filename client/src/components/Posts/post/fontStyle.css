@@ -1,0 +1,7 @@
+/* styles.css */
+@import '~@fortawesome/fontawesome-svg-core/styles.css';
+
+.fa-light {
+    color: #999;
+    /* Set your desired color for the light style */
+}
